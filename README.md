@@ -26,3 +26,14 @@ cd repo
 ```
 bash repo
 ```
+  
+<H1 align="center">
+CONTACT
+</H1>
+
+<p align="center">
+Kalo masih kurang faham bisa contact saya
+</br>
+<p align="center">
+<a href="https://t.me/D_baj"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-https://t.me/D_baj-blue"/></a>
+</br>
