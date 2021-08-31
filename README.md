@@ -1,4 +1,4 @@
-<h1 align="center">REPO CHANGER</h1>
+<h1 align="center">REPO CHANGER V1.2</h1>
 
 Tools ini digunakan bagi orang yg pertama kali install Termux versi Playstore. Bagi yg sudah pro skip ajah wkwkwkw<enter>
 
