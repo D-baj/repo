@@ -26,7 +26,10 @@ cd repo
 ```
 bash repo
 ```
-  
+
+# Hasil
+![Screenshot_2021-08-31-20-32-59-427_com termux](https://user-images.githubusercontent.com/75845910/131512465-bdd319d5-d7df-45fc-854d-5fda8642101a.jpg)
+
 <H1 align="center">
 CONTACT
 </H1>
