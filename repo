@@ -1,6 +1,7 @@
 #!/bin/bash
 #repo changer v 1.2
 #coded by D_baj
+#yang mau recode silahkan atau bisa di fork
 
 #color                                                                
 o='\033[0m'; r='\033[1;31m'; b='\033[1;36m'; bx='\033[2;7;36m'; w='\033[1;37m'; y='\033[1;33m'; g='\033[1;32m'
