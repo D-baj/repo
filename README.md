@@ -40,3 +40,6 @@ Kalo masih kurang faham bisa contact saya
 <p align="center">
 <a href="https://t.me/D_baj"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-https://t.me/D_baj-blue"/></a>
 </br>
+<p align="center">
+<a href="https://api.whatsapp.com/send?phone=6282346048026&text=Halo+D_baj"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-green"/></a>
+</br>
